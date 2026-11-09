@@ -1,0 +1,3 @@
+# 忽略 git 无关文件
+*.log
+.DS_Store
